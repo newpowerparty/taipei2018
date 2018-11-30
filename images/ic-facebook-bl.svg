@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-facebook-bl</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <rect id="Rectangle" fill="#000000" transform="translate(15.000000, 15.000000) scale(1, -1) translate(-15.000000, -15.000000) " x="0" y="0" width="30" height="30"></rect>
+            <path d="M12.7710941,23.75 L12.7710941,15.4823846 L10,15.4823846 L10,12.2602903 L12.7710941,12.2602903 L12.7710941,9.88411582 C12.7710941,7.12653751 14.4485219,5.625 16.8986946,5.625 C18.0722726,5.625 19.0809283,5.71275167 19.375,5.75194795 L19.375,8.63375448 L17.6755826,8.6345544 C16.3431373,8.6345544 16.0851573,9.27025408 16.0851573,10.2031256 L16.0851573,12.2602903 L19.2629803,12.2602903 L18.8491606,15.4823846 L16.0851573,15.4823846 L16.0851573,23.75 L12.7710941,23.75 Z" id="fb" fill="#F2F2F2"></path>
+        </g>
+    </g>
+</svg>
